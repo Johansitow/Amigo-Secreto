@@ -44,10 +44,7 @@
 
 
 ## Autor ✒️
-- **Tu Nombre** - [GitHub](https://github.com/tu-usuario)
-
-## Licencia 📄
-Este proyecto está bajo la Licencia MIT - consulta el archivo `LICENSE` para más detalles.
+- **Johan Steve Ospina Prieto** - [GitHub](https://github.com/Johansitow)
 
 ---
 ¡Gracias por revisar el proyecto! 🎉
