@@ -37,7 +37,11 @@
 ```
 
 ## Capturas de Pantalla 🖼️
-_(Aquí puedes agregar capturas de pantalla de la interfaz para que los evaluadores vean el diseño y funcionamiento.)_
+![image](https://github.com/user-attachments/assets/f56a89bd-393c-499d-a568-0bd6810ba9e2)
+![image](https://github.com/user-attachments/assets/71aa070a-ef0a-402a-a850-379bb65b6600)
+![image](https://github.com/user-attachments/assets/7f6ef02c-863c-4236-87b7-b167ce07972f)
+![image](https://github.com/user-attachments/assets/c7254211-59a8-4d7d-bc1f-c684fad4eab8)
+
 
 ## Autor ✒️
 - **Tu Nombre** - [GitHub](https://github.com/tu-usuario)
